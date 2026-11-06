@@ -4,7 +4,7 @@
 Без игровых преимуществ — см. [исследование](docs/research-pulse-clients.md).
 
 ## Установка (для игроков)
-1. Скачать **`PulseClient.exe`** из [последнего релиза](https://github.com/RovelLabs/111/releases/latest) и запустить.
+1. Скачать **`PulseClient.exe`** из [последнего релиза](https://github.com/ParanoaiDev/111/releases/latest) и запустить.
 2. Нажать **«Установить»**. Лаунчер сам скачает всё нужное (~600 МБ): Java 17, Minecraft 1.20.1, Fabric,
    Fabric API и клиент. На рабочем столе появятся папка `Pulse Client` и ярлык.
 3. Ввести ник, выбрать память и нажать **«Играть»**.

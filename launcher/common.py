@@ -15,7 +15,7 @@ from pathlib import Path
 from typing import Callable, Optional
 
 APP_NAME = "Pulse Client"
-REPO = "RovelLabs/111"
+REPO = "ParanoaiDev/111"
 MC_VERSION = "1.20.1"
 
 try:  # файл создаётся при сборке релиза
